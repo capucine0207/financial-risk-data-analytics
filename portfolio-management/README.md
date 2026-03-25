@@ -31,4 +31,5 @@ Construct and optimize a portfolio of equities using quantitative methods to ana
 - Portfolio optimization  
 - Risk-return analysis  
 - Financial modeling in Excel  
-- Quantitative analysis of financial data  
+- Quantitative analysis of financial data
+- Financial modeling and optimization in Excel
